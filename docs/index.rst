@@ -9,7 +9,7 @@ Manuale installazione TC110 GLASS
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 6
    :glob:
 
    *
